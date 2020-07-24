@@ -1,4 +1,0 @@
-{
-	"API": "http://localhost:5004/build/",
-	"PRESETS": "http://localhost:5004/presets/"
-}
