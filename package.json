@@ -27,7 +27,7 @@
 		"browserify": "^13.1.1",
 		"classnames": "^2.2.5",
 		"co": "^4.6.0",
-		"codemirror": "^5.22.0",
+		"codemirror": "^5.58.2",
 		"config": "^3.2.4",
 		"crypto": "0.0.3",
 		"errorify": "^0.3.1",
